@@ -2601,9 +2601,9 @@
 			(clearance 0.1)
 			(uuid "6e435228-1f9c-4faa-9d19-09d30d1901d9")
 		)
-		(model "${KIPRJMOD}/RDN0011A.stp"
+		(model "${KIPRJMOD}/3Dmodels/RDN0011A.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0.1 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7308,9 +7308,9 @@
 			(pintype "passive")
 			(uuid "bbb53249-b7bf-495b-81cd-4dafdfd7a237")
 		)
-		(model "${KIPRJMOD}/ESP32-S3-MINI-1U.STEP"
+		(model "${KIPRJMOD}/3Dmodels/ESP32-S3-MINI-1U.STEP"
 			(offset
-				(xyz -7.5 -7.5 0)
+				(xyz -7.7 -7.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
